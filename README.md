@@ -1,6 +1,8 @@
-# Value: Things for which we give up certain things 
+<!-- Wont change since it sums up what i want pretty nicely -->
 
-This one will try to show 'how to find things that are of value' to you, to people around you, to everybody and in doing so maybe, see things that  actually worthy of being valuable.
+# Value: Things, for which we give up certain things 
+
+This one will try to show 'how to find things that are of value' to you, to people around you, to everybody and in doing so maybe, be more aware things that  actually worthy of being valuable.
 
 ___
 
